@@ -1,0 +1,29 @@
+body{
+	background-color: grey;
+}
+.form{
+	border: 2px solid black;
+	width:50%;
+	position: relative;
+	margin: auto;
+}
+#prenom, #nom, #numero{
+	width: 97%;
+	height: 50px;
+	margin:5px 5px 5px 5px;
+	border-radius: 15px;
+}
+#btnAjouter{
+	margin-bottom: 10px;
+	margin-left: 50px;
+	width: 80%;
+	border-radius: 50px;
+
+}
+
+.recherche{
+	margin-left: 10px;
+}
+#search, #research{
+	border-radius: 50px;
+}
